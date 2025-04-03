@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1707520311 source:c:\users\admin\desktop\prpjet c\projethex\main.c
+	<stdio.h>
+	"Menu.c"
+	"joue.c"
+	"game.c"
+	"Winner.c"
+	"GRILLE.c"
+	"facile.c"
+	"difficile.c"
+
+1707328689 c:\users\admin\desktop\prpjet c\projethex\game.h
+	"grille.h"
+	"winner.h"
+
+1707515460 c:\users\admin\desktop\prpjet c\projethex\grille.h
+	<stdbool.h>
+
+1707255989 c:\users\admin\desktop\prpjet c\projethex\winner.h
+
+1707410616 c:\users\admin\desktop\prpjet c\projethex\menu.h
+	"game.h"
+	"facile.h"
+	"difficile.h"
+
+1707521408 c:\users\admin\desktop\prpjet c\projethex\joue.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"joue.h"
+
+1707481244 c:\users\admin\desktop\prpjet c\projethex\joue.h
+	"facile.h"
+	"difficile.h"
+
+1707519896 c:\users\admin\desktop\prpjet c\projethex\menu.c
+	<stdio.h>
+	<windows.h>
+	"Menu.h"
+
+1707515607 c:\users\admin\desktop\prpjet c\projethex\winner.c
+	"Winner.h"
+
+1707522345 c:\users\admin\desktop\prpjet c\projethex\game.c
+	"game.h"
+	<stdio.h>
+
+1707521493 c:\users\admin\desktop\prpjet c\projethex\grille.c
+	"GRILLE.h"
+	<stdio.h>
+
+1707297627 c:\users\admin\desktop\prpjet c\projethex\joueurvsmachine.h
+
+1707514235 c:\users\admin\desktop\prpjet c\projethex\facile.h
+
+1707494457 c:\users\admin\desktop\prpjet c\projethex\difficile.h
+	"joue.h"
+
+1707522376 c:\users\admin\desktop\prpjet c\projethex\facile.c
+	"facile.h"
+	"Winner.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1707494459 c:\users\admin\desktop\prpjet c\projethex\difficile.c
+	"difficile.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1707520312 source:c:\users\admin\desktop\projethex\main.c
+	<stdio.h>
+	"Menu.c"
+	"joue.c"
+	"game.c"
+	"Winner.c"
+	"GRILLE.c"
+	"facile.c"
+	"difficile.c"
+
+1707560523 c:\users\admin\desktop\projethex\menu.c
+	<stdio.h>
+	<windows.h>
+	"Menu.h"
+
+1707410618 c:\users\admin\desktop\projethex\menu.h
+	"game.h"
+	"facile.h"
+	"difficile.h"
+
+1707328690 c:\users\admin\desktop\projethex\game.h
+	"grille.h"
+	"winner.h"
+
+1707515462 c:\users\admin\desktop\projethex\grille.h
+	<stdbool.h>
+
+1707255990 c:\users\admin\desktop\projethex\winner.h
+
+1707514236 c:\users\admin\desktop\projethex\facile.h
+
+1707494458 c:\users\admin\desktop\projethex\difficile.h
+	"joue.h"
+
+1707481246 c:\users\admin\desktop\projethex\joue.h
+	"facile.h"
+	"difficile.h"
+
+1707521410 c:\users\admin\desktop\projethex\joue.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"joue.h"
+
+1707522346 c:\users\admin\desktop\projethex\game.c
+	"game.h"
+	<stdio.h>
+
+1707515608 c:\users\admin\desktop\projethex\winner.c
+	"Winner.h"
+
+1707521494 c:\users\admin\desktop\projethex\grille.c
+	"GRILLE.h"
+	<stdio.h>
+
+1707522378 c:\users\admin\desktop\projethex\facile.c
+	"facile.h"
+	"Winner.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1707494460 c:\users\admin\desktop\projethex\difficile.c
+	"difficile.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
